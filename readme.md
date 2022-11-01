@@ -18,13 +18,13 @@ pip install -r requirements.txt
 ### train
 
 ```
-python train.py
+python tools/train.py
 ```
 
 ### test
 
 ```
-python test.py
+python tools/test.py
 ```
 
 ## Result
